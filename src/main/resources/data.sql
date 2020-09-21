@@ -1,0 +1,23 @@
+INSERT INTO city (id, name) VALUES
+  (233, 'Adaban'),
+  (67, 'Abidian'),
+  (157, 'Accra'),
+  (45, 'Barcelona'),
+  (5, 'Sevilla'),
+  (345, 'Madrid'),
+  (867, 'Zaragoza'),
+  (657, 'Bilbao'),
+  (76, 'Sevilla'),
+  (772, 'Granada'),
+  (547, 'Santiago de Compostela'),
+  (562, 'Merida'),
+  (268, 'Santander'),
+  (214, 'Pamplona'),
+  (567, 'Tenerife'),
+  (89, 'Cordoba'),
+  (642, 'Avila'),
+  (82, 'Burgos'),
+  (62, 'Palencia'),
+  (462, 'Leon'),
+  (625, 'Almeria')
+  ;
